@@ -72,7 +72,7 @@ Berikut adalah temuan utama yang diperoleh dari analisis data churn pelanggan pa
 
 - **Lebih dari 90% pelanggan dalam segmen berisiko tinggi ini tidak berlangganan layanan keamanan atau dukungan teknis**, seperti *Online Security*, *Tech Support*, dan *Device Protection*. Kurangnya layanan pendukung ini dapat menjadi salah satu penyebab utama rendahnya loyalitas pelanggan.
 
-- **Sekitar 57% pelanggan churn pada segmen tersebut terjadi pada 0–6 bulan pertama masa berlangganan**, yang dapat mengindikasikan adanya masalah dalam proses onboarding, pengalaman awal pelanggan, atau ekspektasi yang tidak terpenuhi sejak awal.
+- **Sekitar 57% pelanggan churn pada segmen tersebut terjadi pada 0–6 bulan pertama masa berlangganan** yang dapat mengindikasikan adanya masalah dalam proses onboarding, pengalaman awal pelanggan, atau ekspektasi yang tidak terpenuhi sejak awal.
 
 ---
 
@@ -82,15 +82,14 @@ Berdasarkan temuan yang diperoleh dari analisis churn pelanggan, berikut adalah 
 
 1. **Tawarkan paket bundling yang mencakup layanan keamanan dan dukungan teknis**, seperti *Online Security* dan *Tech Support*, khususnya kepada pelanggan *Fiber Optic* dengan kontrak *Month-to-month*. Strategi ini dapat meningkatkan persepsi nilai dan keterikatan pelanggan terhadap layanan.
 
-2. **Perkuat komunikasi manfaat dari setiap layanan yang ditawarkan**, terutama layanan tambahan seperti keamanan dan dukungan teknis. Edukasi yang tepat dapat membantu pelanggan memahami manfaat dari biaya bulanan yang mereka bayarkan.
+2. **Perkuat komunikasi manfaat dari setiap layanan yang ditawarkan** terutama layanan tambahan seperti keamanan dan dukungan teknis. Edukasi yang tepat dapat membantu pelanggan memahami manfaat dari biaya bulanan yang mereka bayarkan.
 
-3. **Optimalkan proses onboarding pelanggan baru**, dengan memberikan panduan, dukungan proaktif, atau komunikasi rutin selama 3 bulan pertama. Hal ini bertujuan untuk menciptakan pengalaman awal yang positif dan mengurangi churn dini.
+3. **Optimalkan proses onboarding pelanggan baru** dengan memberikan panduan, dukungan proaktif, atau komunikasi rutin selama 3 bulan pertama. Hal ini bertujuan untuk menciptakan pengalaman awal yang positif dan mengurangi churn dini.
 
 4. **Berikan insentif khusus atau diskon progresif kepada pelanggan *Month-to-month* yang loyal untuk beralih ke kontrak jangka panjang**. Strategi ini dapat membantu menstabilkan pendapatan dan menurunkan tingkat churn secara keseluruhan.
 
 5. **Lakukan segmentasi pelanggan secara berkala berdasarkan risiko churn dan nilai pelanggan**, lalu terapkan pendekatan personalisasi dalam retensi, misalnya dengan pengingat layanan yang belum diaktifkan atau penawaran khusus berdasarkan riwayat penggunaan.
 
-Implementasi dari rekomendasi ini diharapkan dapat meningkatkan loyalitas pelanggan, memperpanjang masa langganan, dan pada akhirnya menurunkan biaya akuisisi pelanggan baru.
 
 ---
 
